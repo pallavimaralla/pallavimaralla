@@ -14,13 +14,15 @@ A **passionate software developer** pursuing a **Master’s in Computer Science 
 - **Programming Languages:** Java, JavaScript, Python, C++  
 - **Agile & Software Practices:** XP (Pair Programming, Small Releases, Collective Ownership)  
 
+
 ### 💡 Interests:
-🔹 Scalable System Design  
 🔹 Database Optimization  
 🔹 Algorithmic Problem Solving  
+🔹 Backend Architecture  
 🔹 Agile Development  
+🔹 Cloud Computing (AWS, GCP, Azure)  
+🔹 Scalable Systems
 
----
 
 <table>
  <tr>
@@ -41,7 +43,6 @@ A **passionate software developer** pursuing a **Master’s in Computer Science 
   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png"></code>
   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/redis/redis.png"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/googlecloud/googlecloud.png"></code>
   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png"></code>
 <br><br>
   
@@ -57,10 +58,6 @@ A **passionate software developer** pursuing a **Master’s in Computer Science 
   <tr>
  </table>
 
-<details> 
-  <summary>💻 More Stats</summary>
-  <img alt="Pallavi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pallavimaralla&theme=react-dark"/> 
-</details>
 
 <!--
 **pallavimaralla/pallavimaralla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
