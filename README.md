@@ -49,11 +49,13 @@ A **passionate software developer** pursuing a **Master’s in Computer Science 
   </td>
   <td>
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW1wb2EwamE2cjE4YWhtdHF5N3VxMW0ydHAxbXJ4YWRiOHA4c3FteCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fWCXD5sCs21t3vJvNs/giphy.gif" height="200">
-  <h3>📬 Reach me on:</h3>
- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pallavimaralla/) 
-  </td>
- </tr>
-</table>
+ <h3> Reach me on:</h3>
+
+ [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pallavi-maralla/) 
+
+</td>
+  <tr>
+ </table>
 
 <details> 
   <summary>💻 More Stats</summary>
