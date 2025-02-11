@@ -1,7 +1,7 @@
 ## Hello, geeks! <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="30px">
 
 [![Gmail Badge](https://img.shields.io/badge/-pallavimarallas@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:pallavimarallas@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-Pallavi%20Maralla%20Satish-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pallavimaralla/ "Connect on LinkedIn")
+[![Linkedin Badge](https://img.shields.io/badge/-Pallavi%20Maralla%20Satish-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pallavi-maralla/ "Connect on LinkedIn")
 
 ### 👋 Hi, I'm Pallavi Maralla Satish!  
 A **passionate software developer** pursuing a **Master’s in Computer Science at Stevens Institute of Technology**. I love exploring new technologies, optimizing performance, and building scalable backend systems.  
