@@ -40,6 +40,7 @@ SERC is a University Affiliated Research Center (UARC), a network of 25 universi
 ### SDE 1, Zee Entertainment Enterprises Limited
 Apr 2022 to Jul 2024, Bengaluru, India
 
+
 * Migrated critical services (Watch History, Launch API) from AWS to GCP, improving scalability and cost efficiency
 * Designed and implemented backend services in Java and Kotlin for high traffic OTT platforms
 * Integrated the MUSIC API within Watch History services, improving feature richness and system performance
@@ -48,6 +49,8 @@ Apr 2022 to Jul 2024, Bengaluru, India
 * Authored and maintained Swagger and OpenAPI documentation for internal and external collaboration
 * Collaborated with QA, DevOps, and product teams on releases, and managed work in Agile sprints via Jira
 * Contributed to CI/CD workflows using Git, resolving merge conflicts and ensuring clean deployments
+* GITHUB - @pallaviZee
+
 
 ![Java](https://img.shields.io/badge/Java-1B1B2F?style=flat-square&logo=openjdk&logoColor=E50914)
 ![Kotlin](https://img.shields.io/badge/Kotlin-1B1B2F?style=flat-square&logo=kotlin&logoColor=E50914)
